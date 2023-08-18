@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const getBlog = async (id) => {
   try {
-    const res = await fetch(`http://localhost:3000/api/blog/${id}`, {
+    const res = await fetch(`https://portfolio-app-sigma-two.vercel.app/api/blog/${id}`, {
       cache: "no-cache",
     });
     if (!res.ok) {
