@@ -26,16 +26,6 @@ const links = [
     id: 5,
     title: "Resume",
     url: "/resume",
-  },
-  {
-    id: 6,
-    title: "Login",
-    url: "/login"
-  },
-  {
-    id: 7,
-    title: "Dashboard",
-    url: "/dashboard"
   }
 ];
 
