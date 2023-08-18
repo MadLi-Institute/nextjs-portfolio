@@ -2,7 +2,7 @@ import BlogItem from "@/components/blogitem/BlogItem";
 
 const getBlogs = async () => {
   try {
-    const res = await fetch("http://localhost:3000/api/blog", {
+    const res = await fetch("api/blog", {
       cache: "no-store",
     });
     if (!res.ok) {
