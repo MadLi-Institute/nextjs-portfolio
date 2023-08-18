@@ -7,5 +7,5 @@ This is my first portfolio build with **Next.js** for full stack framework and *
 - MongoDB Atlas
 - TailwindCSS + DaisyUI
 
-[!NOTE]
+**Note**
 This project is partial and still ongoing.
