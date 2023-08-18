@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const getAbouts = async () => {
   try {
-    const res = await fetch("http://localhost:3000/api/personal", {
+    const res = await fetch("https://portfolio-app-sigma-two.vercel.app/api/personal", {
       cache: "no-store",
     });
     if (!res.ok) {

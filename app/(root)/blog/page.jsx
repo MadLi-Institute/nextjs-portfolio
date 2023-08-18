@@ -2,7 +2,7 @@ import BlogItem from "@/components/blogitem/BlogItem";
 
 const getBlogs = async () => {
   try {
-    const res = await fetch("/api/blog", {
+    const res = await fetch("https://portfolio-app-sigma-two.vercel.app/api/blog", {
       cache: "no-store",
     });
     if (!res.ok) {
