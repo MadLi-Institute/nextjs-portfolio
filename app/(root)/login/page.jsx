@@ -2,9 +2,9 @@ import LoginForm from "@/components/loginform/LoginForm";
 import Link from "next/link";
 
 export const metadata = {
-  title: "Japhet's Private Space",
+  title: "Madison's Private Space",
   description:
-    "This is a control panel for the portfolio which only Japhet has an access of this page. If you are other than the owner, you are not supposedly here",
+    "This is a control panel for the portfolio which only Madison Li has an access of this page. If you are other than the owner, you are not supposedly here",
 };
 
 const Login = () => {

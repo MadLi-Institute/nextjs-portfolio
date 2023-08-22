@@ -8,7 +8,7 @@ import { authOptions } from "../api/auth/[...nextauth]/route";
 import { redirect } from "next/navigation";
 
 export const metadata = {
-  title: "Japhet's Portfolio",
+  title: "Welcome to Madison's Portfolio",
   description: "Developed by myself using Next.js for full stack framework, MongoDB Atlas for data to store and fetch, and TailwindCSS + DaisyUI for CSS libraries and components...",
 };
 
