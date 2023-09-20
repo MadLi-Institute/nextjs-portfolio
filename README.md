@@ -8,4 +8,4 @@ This is my first portfolio build with **Next.js** for full stack framework and *
 - TailwindCSS + DaisyUI
 
 > **Warning**
-> This project is abondoned and no longer recieve future updates.
+> This project is abandoned and no longer recieve future updates.
